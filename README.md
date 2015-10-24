@@ -1,4 +1,7 @@
 # dart_conky
+
+Based on : https://github.com/timczerniak/dart
+
 Display DART timetable on Ubuntu Desktop using Conky.  
 
 Disclaimer :
